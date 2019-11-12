@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ConsoleAppWithDI": {
+      "commandName": "Project"
+    }
+  }
+}
